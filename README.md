@@ -157,3 +157,9 @@
 ## 许可证
 
 MIT License
+
+## 支持这个项目
+如果你觉得这个项目对你有帮助，请考虑扫描二维码赞助，感谢您的支持！
+|微信点赞 | 支付宝点赞 |
+|:---:|:---:
+| <img src="https://github.com/Hets-plus/PyIPv4v6_SSL_Test/blob/main/img/wechat.jpg?raw=true" width="300" title="微信支付"/> | <img src="https://github.com/Hets-plus/PyIPv4v6_SSL_Test/blob/main/img/alipay.jpg?raw=true" width="300" title="支付宝支付"/> |
