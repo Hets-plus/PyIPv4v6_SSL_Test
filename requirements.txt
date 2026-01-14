@@ -1,0 +1,13 @@
+# PyIPv6_SSL_Test 依赖项
+# 基本依赖
+# Python 2.7 
+
+# 可选依赖
+# 以下包为可选安装，根据使用模式选择安装
+
+# 服务模式（Windows）
+pywin32>=227
+
+# 注意：
+# - Tkinter 通常作为 Python 标准库的一部分安装
+# - OpenSSL 用于生成证书，需要单独安装
