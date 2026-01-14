@@ -1,4 +1,4 @@
-# PyIPv6_SSL_Test 依赖项
+# PyIPv4v6_SSL_Test 依赖项
 # 基本依赖
 # Python 2.7 
 
